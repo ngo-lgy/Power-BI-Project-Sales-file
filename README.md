@@ -3,7 +3,7 @@ Imaginons qu'on reçoive un fichier .xlsx des ventes tous les mois ou toutes les
 1 - Automatiser l'importation, le nettoyage et le traitement des données avec Power Query
 2 - Créer un modèle de données, visualiser les données, créer des graphiques, créer des indicateurs, proposer une expérience interactive avec Power BI Desktop
 3 - Créer des mesures avec le langage DAX, analyse de données
-4 - Publier le rapport sur le Service Power BI pour que les collègues ou le client aient accès au rapport et puissent travailler avec
+4 - Publier le tableau de bords sur le Service Power BI pour que les collègues ou le client aient accès au rapport et puissent travailler avec
 
 1 - Traitement des données avec Power Query
 
@@ -115,7 +115,7 @@ Dans cette section, on génère du code DAX pour créer des mesures, puis les co
 
 Tous les graphiques créés dans cette section sont présentés ci-dessus.
 
-4 - Publier le rapport sur le Service Power BI
+4 - Publier le tableau de bords sur le Service Power BI
 
 - Pour publier le rapport, on se rend sur l’application en ligne Power BI et on le publie dans "Mon espace de travail personnel" pour un usage personnel (ex : premiers tests).
 
