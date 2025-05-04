@@ -119,5 +119,5 @@ Tous les graphiques créés dans cette section sont présentés ci-dessus.
 
 - Pour publier un rapport ou le tableau de bord, on se rend sur l’application en ligne Power BI et on le publie dans "Mon espace de travail personnel" pour un usage personnel (ex : premiers tests).
 
-- Sinon, on crée un nouvel espace de travail à partir de l’onglet "Espace de travail", dans lequel on publie le rapport. On ajoute ensuite des personnes ou des groupes via l’option Gérer les accès.
+- Sinon, on crée un nouvel espace de travail à partir de l’onglet "Espace de travail", dans lequel on publie le tableau de bord. On ajoute ensuite des personnes ou des groupes via l’option Gérer les accès.
 
