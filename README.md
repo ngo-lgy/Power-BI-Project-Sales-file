@@ -3,8 +3,11 @@
 Imaginons qu'on reçoive un fichier .xlsx des ventes tous les mois ou toutes les semaines et qu'on veuille automatiser le reporting via Power BI. C'est dans ce cadre que s'inscrit le présent travail réalisé sur un fichier de ventes contenant les trois tables : Client3, Commandes1 et Produit2. Les objectifs de ce projet sont :
 
 1 - Automatiser l'importation, le nettoyage et le traitement des données avec Power Query
+
 2 - Créer un modèle de données, visualiser les données, créer des graphiques, créer des indicateurs, proposer une expérience interactive avec Power BI Desktop
+
 3 - Créer des mesures avec le langage DAX, analyse de données
+
 4 - Publier le tableau de bord sur le Service Power BI pour que les collègues ou le client aient accès au rapport et puissent travailler avec
 
 ### 1 - Traitement des données avec Power Query
