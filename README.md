@@ -1,3 +1,5 @@
+# Projet Power BI : fichier de ventes 
+
 Imaginons qu'on reçoive un fichier .xlsx des ventes tous les mois ou toutes les semaines et qu'on veuille automatiser le reporting via Power BI. C'est dans ce cadre que s'inscrit le présent travail réalisé sur un fichier de ventes contenant les trois tables : Client3, Commandes1 et Produit2. Les objectifs de ce projet sont :
 
 1 - Automatiser l'importation, le nettoyage et le traitement des données avec Power Query
@@ -5,7 +7,7 @@ Imaginons qu'on reçoive un fichier .xlsx des ventes tous les mois ou toutes les
 3 - Créer des mesures avec le langage DAX, analyse de données
 4 - Publier le tableau de bord sur le Service Power BI pour que les collègues ou le client aient accès au rapport et puissent travailler avec
 
-1 - Traitement des données avec Power Query
+### 1 - Traitement des données avec Power Query
 
 Dans cette section, on commence par charger le fichier ventes.xlsx dans Power BI, ce qui crée une connexion avec ce dernier. On choisit ensuite les trois tables Client3, Commandes1 et Produit2. On clique sur "Transformer les données" pour automatiser le processus de nettoyage dans l'éditeur Power Query.
 
@@ -37,7 +39,7 @@ Ensuite, on réalise les profilages statistiques. On constate que lors de l'affi
 
 Pour ces données, on constate qu’il n’y a plus de nettoyage ou de transformation forcément nécessaire. Le travail est terminé dans Power Query. On retourne donc dans Power BI. Pour cela, on clique sur "Accueil", puis sur "Fermer & Appliquer", ce qui applique les transformations aux données et les envoie dans Power BI Desktop.
 
-2 - Créer un modèle de données, visualiser les données, créer des graphiques, créer des indicateurs, proposer une expérience interactive avec Power BI Desktop
+### 2 - Créer un modèle de données, visualiser les données, créer des graphiques, créer des indicateurs, proposer une expérience interactive avec Power BI Desktop
 
 De retour dans Power BI, on observe trois sections à gauche :
 
@@ -85,7 +87,7 @@ Il faut vérifier que les tables Produit et Commandes sont bien reliées, sinon 
 
 - On ajoute un fond avec transparence pour améliorer l’aspect visuel du rapport
 
-3 - Créer des mesures avec le langage DAX, analyse de données
+### 3 - Créer des mesures avec le langage DAX, analyse de données
 
 Dans cette section, on génère du code DAX pour créer des mesures, puis les combiner avec d’autres mesures ou attributs afin de filtrer l’information ou produire des visualisations plus pertinentes.
 
@@ -115,7 +117,7 @@ Dans cette section, on génère du code DAX pour créer des mesures, puis les co
 
 Tous les graphiques créés dans cette section sont présentés ci-dessus.
 
-4 - Publier le tableau de bord sur le Service Power BI
+### 4 - Publier le tableau de bord sur le Service Power BI
 
 - Pour publier un rapport ou le tableau de bord, on se rend sur l’application en ligne Power BI et on le publie dans "Mon espace de travail personnel" pour un usage personnel (ex : premiers tests).
 
